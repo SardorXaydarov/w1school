@@ -47,8 +47,8 @@ body{
     transition: 0.5s all;
     font-weight: bold;
     margin-left: 10px;
-    padding: 10px 15px;
+    padding: 27px 15px;
 }
 .header .navbar .nav-linkk:hover{
-    border: 1px solid blue;
+    color: blue;
 }
